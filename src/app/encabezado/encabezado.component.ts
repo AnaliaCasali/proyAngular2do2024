@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
   styleUrl: './encabezado.component.css'
 })
 export class EncabezadoComponent {
-  imagenLogo:string="../../assets/img/logotecnicatura63.png"
+  imagenLogo:string="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp"
   altLogo:string="Logo de TSDS IES 63"
 }
